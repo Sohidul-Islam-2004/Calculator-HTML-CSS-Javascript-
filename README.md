@@ -11,3 +11,4 @@ A simple web-based calculator built using HTML, CSS, and JavaScript. It performs
 - HTML
 - CSS
 - JavaScript
+<img width="472" height="739" alt="image" src="https://github.com/user-attachments/assets/2cf1b877-7959-456d-a9e8-cd1e0a62fd56" />
