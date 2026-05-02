@@ -1,0 +1,13 @@
+# Calculator (HTML, CSS, JavaScript)
+
+A simple web-based calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations with a clean and user-friendly interface.
+
+## Features
+- Addition, subtraction, multiplication, and division
+- Clear and easy-to-use interface
+- Responsive design
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
